@@ -1,0 +1,7 @@
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\bin\Debug\Tareaprogramacion2.exe.config
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\bin\Debug\Tareaprogramacion2.exe
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\bin\Debug\Tareaprogramacion2.pdb
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\obj\Debug\Tareaprogramacion2.csproj.AssemblyReference.cache
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\obj\Debug\Tareaprogramacion2.csproj.CoreCompileInputs.cache
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\obj\Debug\Tareaprogramacion2.exe
+C:\Users\maryf\OneDrive\Escritorio\Tareaprogramacion2\Tareaprogramacion2\obj\Debug\Tareaprogramacion2.pdb
